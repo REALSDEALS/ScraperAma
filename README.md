@@ -1,4 +1,5 @@
-# ScraperAma ![GitHub repo size](https://img.shields.io/github/repo-size/REALSDEALS/ScraperAma?label=Repository%20Size)
+# ScraperAma 
+![GitHub repo size](https://img.shields.io/github/repo-size/REALSDEALS/ScraperAma?label=Repository%20Size) ![GitHub](https://img.shields.io/github/license/REALSDEALS/ScraperAma) ![GitHub top language](https://img.shields.io/github/languages/top/REALSDEALS/ScraperAma)
 Webscraper - Get notified!
 
 # Main purpose
